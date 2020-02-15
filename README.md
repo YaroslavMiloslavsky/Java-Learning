@@ -1,2 +1,2 @@
-# Java-7-Topics
-Java 7 exercises and examples
+# Java Projects
+Some projects and showcases of different Java concepts
