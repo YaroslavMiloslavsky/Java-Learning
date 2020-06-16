@@ -1,2 +1,2 @@
 # Java Projects
-Some projects and showcases of different Java concepts
+Java learning path, just something I made for myself - feel free to explore
